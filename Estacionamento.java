@@ -103,9 +103,10 @@ public class estacionamento {
                 if (estacionamento[i][j] == 0) {
                     System.out.print("[L] "); // L de Livre
                 } else {
-                    System.out.print("[O] "); // O de Ocupado
+                    System.out.print("[🚗] "); // O de Ocupado
                 }
-            }
+            }1
+            
             System.out.println();
         }
     }
