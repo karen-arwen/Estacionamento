@@ -105,8 +105,7 @@ public class estacionamento {
                 } else {
                     System.out.print("[🚗] "); // O de Ocupado
                 }
-            }1
-            
+            }
             System.out.println();
         }
     }
